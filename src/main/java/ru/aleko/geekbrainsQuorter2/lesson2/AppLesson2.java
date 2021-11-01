@@ -2,7 +2,7 @@ package ru.aleko.geekbrainsQuorter2.lesson2;
 
 public class AppLesson2 {
     public static void main(String[] args) {
-//
+//  некоторые изменения
         String [] a = {"1", "2", "3","4"};
         String [] b = {"5","6","7", "8"};
         String [] g = {"5","6","7"};
